@@ -13,7 +13,7 @@ You will need the following to get started:
 To install and run the project:
 1. Clone this repository:
     ```sh
-    git clone [https://github.com/yourusername/digital-resumes.git](https://github.com/Thecloudmon/Imhotep-digital-resume/edit/main/README.md)
+    git clone [https://github.com/Thecloudmon/Imhotep-digital-resume/edit/main/README.md]
     cd digital-resumes
     ```
 2. Build and run the Docker container:
